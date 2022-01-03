@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Stroke.Wellness",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
